@@ -1,0 +1,91 @@
+{ 
+    "_id" : ObjectId("5eaf77a10bca134c9c2cf3cd"), 
+    "password" : "$2a$10$NpV0ReXWwuF6owjkUwrRguGwjrMJy3AjKVYiT1VHXddM3m5.aWPY.", 
+    "email" : "ak@gmail.com", 
+    "history" : [
+
+    ], 
+    "profile" : {
+        "picture" : "https://gravatar.com/avatar/59486d6a5ffeabfb6389021bd8fa95a6?s=200&d=retro", 
+        "name" : "akshay"
+    }, 
+    "__v" : NumberInt(0), 
+    "isAdmin" : true, 
+    "address" : "UTD"
+}
+{ 
+    "_id" : ObjectId("5eb337161a6f032044579d77"), 
+    "password" : "$2a$10$p37IhcngqT9f8MzDdbRlyeSVbnTABp5H7mILqD70u30rFEP3IVb6C", 
+    "email" : "123@mail.com", 
+    "isAdmin" : false, 
+    "history" : [
+
+    ], 
+    "profile" : {
+        "picture" : "https://gravatar.com/avatar/a95eabbd7f261ad4f61f07a2e5cf1d32?s=200&d=retro", 
+        "name" : "jkhjkh"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb349867a4e2f1ca4fd54f9"), 
+    "password" : "$2a$10$vDLBFDxwIc24K6gZBiyzd.ptSML0O6J5.XydKtdx5WK4nTv6PckbO", 
+    "email" : "abhinav@gmail.com", 
+    "isAdmin" : false, 
+    "history" : [
+        {
+            "paid" : NumberInt(54), 
+            "_id" : ObjectId("5eb47ab2aae1d2390cb3ffd3"), 
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb90")
+        }, 
+        {
+            "paid" : NumberInt(45), 
+            "_id" : ObjectId("5eb47ab2aae1d2390cb3ffd2"), 
+            "item" : ObjectId("5eb44bdbb6be78465461f4b2")
+        }, 
+        {
+            "paid" : NumberInt(9), 
+            "_id" : ObjectId("5eb47af8aae1d2390cb3ffd5"), 
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb96")
+        }, 
+        {
+            "paid" : NumberInt(9), 
+            "_id" : ObjectId("5eb47b52aae1d2390cb3ffd6"), 
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb96")
+        }, 
+        {
+            "paid" : NumberInt(9), 
+            "_id" : ObjectId("5eb47b8f8d314b393cbb8828"), 
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb96")
+        }, 
+        {
+            "paid" : NumberInt(9), 
+            "_id" : ObjectId("5eb47be5f1196c4310e8e102"), 
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb96")
+        }
+    ], 
+    "profile" : {
+        "picture" : "https://gravatar.com/avatar/2f9cb491ed58d4f8d289c63724ff8898?s=200&d=retro", 
+        "name" : "Abhinav"
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb49dee93e4ef469ca3099e"), 
+    "password" : "$2a$10$/Psyixt4TIXmCpMFyL9aJO5LsPrR.yU9zyYbWUl2l.HSeFlbfhqpK", 
+    "email" : "anusha@gmail.com", 
+    "isAdmin" : false, 
+    "history" : [
+        {
+            "paid" : NumberInt(200), 
+            "_id" : ObjectId("5eb49e2e93e4ef469ca309a2"), 
+            "item" : ObjectId("5eb44beab6be78465461f4b3")
+        }
+    ], 
+    "profile" : {
+        "picture" : "", 
+        "name" : "anusha"
+    }, 
+    "__v" : NumberInt(0), 
+    "address" : "undefined"
+}

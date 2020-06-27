@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("5eb2f645b48ce62ed87eeb8e"), 
+    "name" : "adventure", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb2f650b48ce62ed87eeb8f"), 
+    "name" : "sports", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb49e6593e4ef469ca309a3"), 
+    "name" : "strategy", 
+    "__v" : NumberInt(0)
+}

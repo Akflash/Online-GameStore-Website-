@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5eb349877a4e2f1ca4fd54fa"), 
+    "owner" : ObjectId("5eb349867a4e2f1ca4fd54f9"), 
+    "items" : [
+        {
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb98"), 
+            "_id" : ObjectId("5eb4896b5cb7f463785994fb"), 
+            "price" : NumberInt(110), 
+            "quantity" : NumberInt(1)
+        }, 
+        {
+            "item" : ObjectId("5eb2f656b48ce62ed87eeb99"), 
+            "_id" : ObjectId("5eb489715cb7f463785994fc"), 
+            "price" : NumberInt(42), 
+            "quantity" : NumberInt(1)
+        }
+    ], 
+    "total" : NumberInt(152), 
+    "__v" : NumberInt(19)
+}
+{ 
+    "_id" : ObjectId("5eb492ad3b35fb2fc8c6dc0b"), 
+    "owner" : ObjectId("5eb492ad3b35fb2fc8c6dc0a"), 
+    "items" : [
+
+    ], 
+    "total" : NumberInt(0), 
+    "__v" : NumberInt(2)
+}
+{ 
+    "_id" : ObjectId("5eb494cbca8aa75ff4e59512"), 
+    "owner" : ObjectId("5eb494caca8aa75ff4e59511"), 
+    "items" : [
+
+    ], 
+    "total" : NumberInt(0), 
+    "__v" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("5eb49a4d6072193be0f987f9"), 
+    "owner" : ObjectId("5eb49a4c6072193be0f987f8"), 
+    "items" : [
+
+    ], 
+    "total" : NumberInt(0), 
+    "__v" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("5eb49def93e4ef469ca3099f"), 
+    "owner" : ObjectId("5eb49dee93e4ef469ca3099e"), 
+    "items" : [
+
+    ], 
+    "total" : NumberInt(0), 
+    "__v" : NumberInt(3)
+}

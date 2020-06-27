@@ -1,0 +1,72 @@
+{ 
+    "_id" : ObjectId("5eb2f656b48ce62ed87eeb96"), 
+    "image" : "product7.jpg", 
+    "price" : NumberInt(9), 
+    "name" : "PUBG", 
+    "category" : ObjectId("5eb2f645b48ce62ed87eeb8e"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb2f656b48ce62ed87eeb98"), 
+    "image" : "product9.jpg", 
+    "price" : NumberInt(110), 
+    "name" : "Call of Duty", 
+    "category" : ObjectId("5eb2f645b48ce62ed87eeb8e"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb44666a96bcf46ec11fb28"), 
+    "image" : "product12.jpg", 
+    "category" : ObjectId("5eb2f650b48ce62ed87eeb8f"), 
+    "price" : NumberInt(55), 
+    "name" : "Cricket 17", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb44bdbb6be78465461f4b2"), 
+    "image" : "product1.jpg", 
+    "category" : ObjectId("5eb2f650b48ce62ed87eeb8f"), 
+    "price" : NumberInt(45), 
+    "name" : "Fifa 20", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb44beab6be78465461f4b3"), 
+    "image" : "product2.jpg", 
+    "category" : ObjectId("5eb2f645b48ce62ed87eeb8e"), 
+    "price" : NumberInt(100), 
+    "name" : "God of War ", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb47fe3441b1b56140591ef"), 
+    "image" : "product3.jpg", 
+    "category" : ObjectId("5eb2f645b48ce62ed87eeb8e"), 
+    "price" : NumberInt(98), 
+    "name" : "Angry Birds", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb48da61d4f76356082b7cc"), 
+    "image" : "product6.jpg", 
+    "category" : ObjectId("5eb2f645b48ce62ed87eeb8e"), 
+    "price" : NumberInt(232), 
+    "name" : "Final fantasy", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb4933c3b35fb2fc8c6dc10"), 
+    "image" : "product4.jpg", 
+    "category" : ObjectId("5eb2f650b48ce62ed87eeb8f"), 
+    "price" : NumberInt(67), 
+    "name" : "need for speed", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5eb49ea993e4ef469ca309a4"), 
+    "image" : "product8.jpg", 
+    "category" : ObjectId("5eb49e6593e4ef469ca309a3"), 
+    "price" : NumberInt(67), 
+    "name" : "Ludo King", 
+    "__v" : NumberInt(0)
+}
